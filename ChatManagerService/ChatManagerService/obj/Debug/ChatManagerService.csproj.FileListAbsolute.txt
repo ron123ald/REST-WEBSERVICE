@@ -1,0 +1,7 @@
+D:\Development\_SPIKE\ChatManagerService\ChatManagerService\bin\ChatManagerService.dll
+D:\Development\_SPIKE\ChatManagerService\ChatManagerService\bin\ChatManagerService.pdb
+D:\Development\_SPIKE\ChatManagerService\ChatManagerService\bin\EntityFramework.dll
+D:\Development\_SPIKE\ChatManagerService\ChatManagerService\bin\EntityFramework.xml
+D:\Development\_SPIKE\ChatManagerService\ChatManagerService\obj\Debug\ChatManagerService.dll
+D:\Development\_SPIKE\ChatManagerService\ChatManagerService\obj\Debug\ChatManagerService.pdb
+D:\Development\_SPIKE\ChatManagerService\ChatManagerService\obj\Debug\ChatManagerService.csprojResolveAssemblyReference.cache
